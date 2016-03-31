@@ -1,0 +1,20 @@
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\vc140.pdb
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\vc140.idb
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\errormanagement.obj
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\ex06.01-main.obj
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\fpslimiter.obj
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\game.obj
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\geometry.obj
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\glslprogram.obj
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\inputmanager.obj
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\openglbuffers.obj
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\window.obj
+c:\users\mperich\desktop\computergraphics\debug\06.01 - basic game engine.ilk
+c:\users\mperich\desktop\computergraphics\debug\06.01 - basic game engine.exe
+c:\users\mperich\desktop\computergraphics\debug\06.01 - basic game engine.pdb
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\06.01 - .489da902.tlog\cl.command.1.tlog
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\06.01 - .489da902.tlog\cl.read.1.tlog
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\06.01 - .489da902.tlog\cl.write.1.tlog
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\06.01 - .489da902.tlog\link.command.1.tlog
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\06.01 - .489da902.tlog\link.read.1.tlog
+c:\users\mperich\desktop\computergraphics\06.01 - basic game engine\debug\06.01 - .489da902.tlog\link.write.1.tlog

@@ -1,0 +1,30 @@
+d:\computergraphics\04.02 - dynamic colors\debug\vc140.pdb
+d:\computergraphics\04.02 - dynamic colors\debug\vc140.idb
+d:\computergraphics\04.02 - dynamic colors\debug\errormanagement.obj
+d:\computergraphics\04.02 - dynamic colors\debug\ex04.02-main.obj
+d:\computergraphics\04.02 - dynamic colors\debug\fpslimiter.obj
+d:\computergraphics\04.02 - dynamic colors\debug\game.obj
+d:\computergraphics\04.02 - dynamic colors\debug\glslprogram.obj
+d:\computergraphics\04.02 - dynamic colors\debug\openglbuffers.obj
+d:\computergraphics\04.02 - dynamic colors\debug\window.obj
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\vc140.pdb
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\vc140.idb
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\errormanagement.obj
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\ex04.02-main.obj
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\fpslimiter.obj
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\game.obj
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\glslprogram.obj
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\openglbuffers.obj
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\window.obj
+d:\computergraphics\debug\04.02 - dynamic colors.ilk
+d:\computergraphics\debug\04.02 - dynamic colors.exe
+d:\computergraphics\debug\04.02 - dynamic colors.pdb
+c:\users\mperich\desktop\computergraphics\debug\04.02 - dynamic colors.ilk
+c:\users\mperich\desktop\computergraphics\debug\04.02 - dynamic colors.exe
+c:\users\mperich\desktop\computergraphics\debug\04.02 - dynamic colors.pdb
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\04.02 - .1c7a7759.tlog\cl.command.1.tlog
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\04.02 - .1c7a7759.tlog\cl.read.1.tlog
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\04.02 - .1c7a7759.tlog\cl.write.1.tlog
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\04.02 - .1c7a7759.tlog\link.command.1.tlog
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\04.02 - .1c7a7759.tlog\link.read.1.tlog
+c:\users\mperich\desktop\computergraphics\04.02 - dynamic colors\debug\04.02 - .1c7a7759.tlog\link.write.1.tlog

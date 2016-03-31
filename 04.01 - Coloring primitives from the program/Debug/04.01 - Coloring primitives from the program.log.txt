@@ -1,0 +1,24 @@
+﻿Build started 15/02/2016 12:30:11.
+     1>Project "C:\Users\mperich\Documents\computergraphics\04.01 - Coloring primitives from the program\04.01 - Coloring primitives from the program.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ErrorManagement.cpp "Ex04.01-Main.cpp" FPSLimiter.cpp Game.cpp GLSLProgram.cpp OpenGLBuffers.cpp Window.cpp
+         Window.cpp
+     1>c:\users\mperich\documents\computergraphics\04.01 - coloring primitives from the program\window.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+         OpenGLBuffers.cpp
+     1>c:\users\mperich\documents\computergraphics\04.01 - coloring primitives from the program\openglbuffers.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+         GLSLProgram.cpp
+     1>c:\users\mperich\documents\computergraphics\04.01 - coloring primitives from the program\glslprogram.h(5): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+         Game.cpp
+     1>c:\users\mperich\documents\computergraphics\04.01 - coloring primitives from the program\game.h(5): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+         FPSLimiter.cpp
+     1>c:\users\mperich\documents\computergraphics\04.01 - coloring primitives from the program\fpslimiter.cpp(3): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+         Ex04.01-Main.cpp
+     1>c:\users\mperich\documents\computergraphics\04.01 - coloring primitives from the program\game.h(5): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+         ErrorManagement.cpp
+     1>c:\users\mperich\documents\computergraphics\04.01 - coloring primitives from the program\errormanagement.cpp(2): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\mperich\Documents\computergraphics\04.01 - Coloring primitives from the program\04.01 - Coloring primitives from the program.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.60

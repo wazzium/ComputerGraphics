@@ -1,0 +1,2 @@
+﻿  Geometry.cpp
+  06.01 - Basic Game Engine.vcxproj -> C:\Users\mperich\Desktop\Computergraphics\Debug\06.01 - Basic Game Engine.exe
